@@ -27,7 +27,7 @@
     "graceful-fs": "^4.2.6",
     "make-fetch-happen": "^10.0.3",
     "nopt": "^6.0.0",
-    "npmlog": "^6.0.0",
+    "npmlog": "^7.0.1",
     "rimraf": "^3.0.2",
     "semver": "^7.3.5",
     "tar": "^6.1.2",
